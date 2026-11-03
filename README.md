@@ -2,7 +2,7 @@
 
 Data Solutions Architect in Vancouver. I build the layer between raw data and the dashboards people trust: dbt models, warehouse design (Snowflake, BigQuery), data quality checks, and the reconciliations that prove a number is right before anyone acts on it.
 
-I write about that work twice a week on [LinkedIn](https://www.linkedin.com/in/kevin-yy/): short field notes on Tuesdays, longer articles on Thursdays.
+I write about that work twice a week on [LinkedIn](https://www.linkedin.com/in/kevin-yy/): short field notes on Tuesdays, longer articles on Thursdays. All my projects are also at **[kevinyy.com](https://www.kevinyy.com/)**.
 
 **What's here**
 
