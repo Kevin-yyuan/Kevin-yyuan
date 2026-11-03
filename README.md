@@ -6,7 +6,7 @@ I write about that work twice a week on [LinkedIn](https://www.linkedin.com/in/k
 
 **What's here**
 
-- 🧮 **Analytics engineering:** working demos that go with my articles, built on synthetic data *(coming soon: fact-table grain and reconciliation checks in dbt)*
+- 🧮 **Analytics engineering & AI agents:** working demos that go with my articles, built on synthetic data. Latest: [dbt-reconcile](https://github.com/Kevin-yyuan/dbt-reconcile), dbt tests that catch fact-table bugs that pass every other test, plus an agent skill that runs the grain review and drafts the PR comment.
 - 📊 **Analytics apps with live demos:**
   [Project Lighthouse](https://github.com/Kevin-yyuan/project_lighthouse) ([demo](https://project-lighthouse-ruby.vercel.app/)) ·
   [Shipping route map](https://github.com/Kevin-yyuan/shipping_route_map) ([demo](https://shipping-route-map.vercel.app/)) ·
